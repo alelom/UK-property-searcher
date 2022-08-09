@@ -1,0 +1,2 @@
+2022-03-19 14:23:46,090 | [DEBUG] test debug message
+2022-03-19 14:23:46,092 | [INFO] Log created: _logs/20220319-142346.txt

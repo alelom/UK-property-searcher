@@ -1,0 +1,25 @@
+2022-03-19 16:30:02,403 | [DEBUG] test debug message
+2022-03-19 16:30:02,404 | [INFO] Log created: _logs/20220319-163002.txt
+2022-03-19 16:30:17,939 | [DEBUG] ['snug', 'bathroom', 'chamber', 'prison cell', 'billiard parlour', 'war room', 'living-room', 'testing room', 'sick berth', 'bedchamber', 'scriptorium', 'council chamber', 'reading room', 'anteroom', 'rec room', 'parlor', 'billiard room', 'sun lounge', 'dining room', 'compartment', 'shower room', 'classroom', 'closet', 'furnace room', 'dance palace', 'rotunda', 'sunporch', 'study', 'dressing room', 'john', 'television room', 'checkroom', 'sickbay', 'antechamber', 'darkroom', 'library', 'vestibule', 'sun parlor', 'scullery', 'living room', 'surgery', 'belfry', 'ginmill', 'sleeping room', 'sickroom', 'vapor bath', 'toilet', 'cell', 'steam bath', 'cardroom', 'squad room', 'bar', 'billiard saloon', 'storage room', 'courtroom', 'jail cell', 'barroom', 'front room', 'locker room', 'clubroom', 'ballroom', 'reception room', 'stowage', 'lavatory', 'workroom', 'garden', 'coatroom', 'dance hall', 'manor hall', 'den', 'lobby', 'billiard hall', 'control room', 'can', 'hospital room', 'sewing room', 'white room', 'clean room', 'solarium', 'walk-in', 'sun parlour', 'snuggery', 'torture chamber', 'recreation room', 'balcony', 'schoolroom', 'cubby', 'cubicle', 'cubbyhole', 'garden studio', 'saloon', 'taproom', 'greenroom', 'engineering', 'anechoic chamber', 'test room', 'tv room', 'foyer', 'dinette', 'cloakroom', 'vestry', 'entrance hall', 'sunroom', 'poolroom', 'steam room', 'bedroom', 'privy', 'dining-room', 'sleeping accommodation', 'back room', 'storeroom', 'waiting area', 'lounge', 'parlour', 'sun porch', 'gallery', 'kitchen', 'art gallery', 'terrace', 'engine room', 'picture gallery', 'studio', 'patio', 'waiting room', 'vapour bath', 'sitting room', 'durbar', 'smoking room', 'cutting room', 'conference room', 'left-luggage office', 'boardroom', 'sacristy', 'billiard parlor', 'hall', 'rathole', 'lav', 'guardroom', 'shipping room', 'bath', 'presence chamber', 'door', 'court']
+2022-03-19 16:31:06,276 | [DEBUG] ['Loughborough Road SW9', 'Approximate Gross Internal Area', '53.4 sq m/ 575 sq ft', 'Reception Room', '4.17 x 3.96', "13'8 x 13'0 —~", 'ER PBay', 'aan Ke } / fo =', '\\ =~ ~~ ] Toe', 'Bedroom Bedroom', 'a— 3.05x257 fa eoanneae =', '100 x 85 11\'7 x 10"', 'Basement', 'This plan is for layout guidance only. Not drawn to scale', 'unless stated. Windows and door openingsare approximate.', 'Whilst every care is taken in the preparation of this plan,', 'please check all dimensions, shapes and compass bearings', 'before making any decisions reliant upon them. (ID830217)']
+2022-03-19 19:40:17,442 | [DEBUG] ["Loughborough Road SW9", "Approximate Gross Internal Area", "53.4 sq m/ 575 sq ft", "Reception Room", "4.17 x 3.96", "13'8 x 13'0 \u2014~", "ER PBay", "aan Ke } / fo =", "\\ =~ ~~ ] Toe", "Bedroom Bedroom", "a\u2014 3.05x257 fa eoanneae =", "100 x 85 11'7 x 10\"", "Basement", "This plan is for layout guidance only. Not drawn to scale", "unless stated. Windows and door openingsare approximate.", "Whilst every care is taken in the preparation of this plan,", "please check all dimensions, shapes and compass bearings", "before making any decisions reliant upon them. (ID830217)"]
+2022-03-19 19:40:24,508 | [DEBUG] [
+    "Loughborough Road SW9",
+    "Approximate Gross Internal Area",
+    "53.4 sq m/ 575 sq ft",
+    "Reception Room",
+    "4.17 x 3.96",
+    "13'8 x 13'0 \u2014~",
+    "ER PBay",
+    "aan Ke } / fo =",
+    "\\ =~ ~~ ] Toe",
+    "Bedroom Bedroom",
+    "a\u2014 3.05x257 fa eoanneae =",
+    "100 x 85 11'7 x 10\"",
+    "Basement",
+    "This plan is for layout guidance only. Not drawn to scale",
+    "unless stated. Windows and door openingsare approximate.",
+    "Whilst every care is taken in the preparation of this plan,",
+    "please check all dimensions, shapes and compass bearings",
+    "before making any decisions reliant upon them. (ID830217)"
+]

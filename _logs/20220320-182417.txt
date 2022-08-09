@@ -1,0 +1,17 @@
+2022-03-20 18:24:17,750 | [DEBUG] test debug message
+2022-03-20 18:24:17,751 | [INFO] Log created: _logs/20220320-182417.txt
+2022-03-20 18:24:47,255 | [DEBUG] [
+    "x x x RECEPTION",
+    "Ee. \u20ac 151 x 10'4",
+    "<i (4.6m x 3.1m)",
+    "BEDROOM 2",
+    "13'11 x 8'6",
+    "(4.2m x 2.6m)",
+    "BEDROOM 1",
+    "1510 x 8'6",
+    "(4.8m x 2.6m)",
+    "FOURTH FLOOR",
+    "GROSS INTERNAL",
+    "FLOOR AREA 701 SQ FT",
+    "APPROX. GROSS INTERNAL FLOOR AREA 701 SQ FT / 65.1 SQM"
+]
